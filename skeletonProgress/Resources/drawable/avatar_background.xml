@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<shape   xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:tint="@color/shimmer_background_color"
+		 xmlns:tools="http://schemas.android.com/tools"
+	android:shape="oval">
+	
+	
+</shape>
